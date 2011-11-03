@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+	<name>
+		<lang name="default">OpenComments</lang>
+	</name>
+	<author>
+		<lang name="default">flexbyte</lang>
+	</author>
+	<homepage>http://flexbyte.com</homepage>
+	<version>1.3</version>
+	<requires>
+		<livestreet>0.5.1</livestreet>
+		<plugins>
+		</plugins>
+	</requires>
+	<description>
+		<lang name="default">OpenComments</lang>
+		<lang name="russian">Позволяет посетителям оставлять комментарии без регистрации.</lang>
+	</description>
+</plugin>
